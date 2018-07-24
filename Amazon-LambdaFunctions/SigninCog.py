@@ -8,9 +8,9 @@ import json
 import uuid
 
 # MODIFY
-USER_POOL_ID = 'us-west-2_UGdP67fll'
-CLIENT_ID = 'ie70v8gc7ehr7l0c7h8nu3cda'
-CLIENT_SECRET = 'aq5tiqt387ad01njb26rlfoqbb3ogd5kliojng95n0jg1eqbfjl'
+USER_POOL_ID = 'us-west-asdf'
+CLIENT_ID = 'ifasdfa'
+CLIENT_SECRET = 'aasdffdl'
 
 client = None
 

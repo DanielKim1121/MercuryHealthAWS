@@ -30,7 +30,7 @@ def lambda_handler(event, context):
 		return respond('Request is not properly formated.')
 
 
-	messageTable = boto3.resource('dynamodb').Table('Message')
+	messageTable = boto3.resource('dynamodb').Table('asdfasdf')
 
 	#create a new db entry
 	messageData = {
